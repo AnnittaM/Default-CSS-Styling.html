@@ -25,6 +25,10 @@ Open the `index.html` file in your web browser to see the default CSS styling ap
 Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or submit a pull request.
 
 
+## Technologies Used
+HTML, CSS
+
+
 ## Acknowledgements
 
 - The default CSS styles are based on the W3C HTML specification.
